@@ -1,0 +1,14 @@
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\bin\Debug\net6.0\Dungeon Adventure.exe
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\bin\Debug\net6.0\Dungeon Adventure.deps.json
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\bin\Debug\net6.0\Dungeon Adventure.runtimeconfig.json
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\bin\Debug\net6.0\Dungeon Adventure.dll
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\bin\Debug\net6.0\Dungeon Adventure.pdb
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\Dungeon Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\Dungeon Adventure.AssemblyInfoInputs.cache
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\Dungeon Adventure.AssemblyInfo.cs
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\Dungeon Adventure.csproj.CoreCompileInputs.cache
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\Dungeon Adventure.dll
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\refint\Dungeon Adventure.dll
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\Dungeon Adventure.pdb
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\Dungeon Adventure.genruntimeconfig.cache
+C:\Users\admir\Documents\GitHub\TeamSparta\Dungeon Adventure\obj\Debug\net6.0\ref\Dungeon Adventure.dll
